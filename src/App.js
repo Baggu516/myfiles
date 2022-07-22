@@ -23,7 +23,7 @@ function App() {
            {/*<Evenhandler/>*/}
             {/*<Conditional/>*/}
             {/*<Arrmap/>*/}
-            <Form/>
+            {/*<Form/>*/}
            </div>
       </header>
     </div>
