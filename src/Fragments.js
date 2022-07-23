@@ -20,4 +20,6 @@ class Fragments extends Component {
     }
 
 } 
+
+// adc
 export default Fragments   
