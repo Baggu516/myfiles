@@ -9,6 +9,8 @@ import './App.css';
 //import Evenhandler from './Evenhandler';
 //import Conditional from './Conditional';
 //import Arrmap from './Arrmap';
+//import Arrmap from './Arrmap';
+//import Arrmap from './Arrmap';
 import Form from './Form';
 import Fragments from './Fragments';
 function App() {
